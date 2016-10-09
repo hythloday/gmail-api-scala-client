@@ -1,5 +1,3 @@
-org.scalastyle.sbt.ScalastylePlugin.Settings
-
 publishTo := {
   val nexus = "https://oss.sonatype.org/"
   if (isSnapshot.value)
